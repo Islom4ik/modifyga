@@ -1,0 +1,23 @@
+{
+  "name": "efde",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "caliph-api": "^0.5.7",
+    "dotenv": "^16.0.2",
+    "needle": "^3.1.0",
+    "nodemon": "^2.0.20",
+    "pet-pet-gif": "^1.0.9",
+    "telegraf": "^4.9.2",
+    "tiktok-downloader": "^0.0.4",
+    "tod-api": "^1.0.5",
+    "yt-stream": "^1.2.1"
+  }
+}
